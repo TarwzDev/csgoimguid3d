@@ -2,7 +2,7 @@
 Imgui Menu D3D for CSGO and others games
 
 <p align="center">
-![Screenshot_2](https://i.gyazo.com/1bd2abcf726aa44295a0a62c02899538.png)
+  <img width="512" height="319" src="https://i.imgur.com/DQfjgBz.png">
 </p>
 
 <p align="center">
